@@ -1,0 +1,6 @@
+product,current_stock,avg_daily_demand,reorder_point
+Raw Material A,1032,479,1052
+Raw Material B,425,288,300
+Packaging X,2621,428,818
+Packaging Y,2827,380,1143
+Component Z,3158,196,876
